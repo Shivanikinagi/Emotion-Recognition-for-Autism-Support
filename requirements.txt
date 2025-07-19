@@ -6,3 +6,4 @@ librosa
 sounddevice
 SpeechRecognition
 PyAudio
+pyttsx3
