@@ -1,0 +1,8 @@
+emotionenv/
+models/voice emotion/AudioWAV/
+
+models/facial emotion/test/
+models/facial emotion/train/
+
+models/facial emotion/.ipynb_checkpoints
+models/voice emotion/.ipynb_checkpoints

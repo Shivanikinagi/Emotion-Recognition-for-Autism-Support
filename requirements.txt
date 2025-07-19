@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+opencv-python
+librosa
+sounddevice
+SpeechRecognition
+PyAudio
